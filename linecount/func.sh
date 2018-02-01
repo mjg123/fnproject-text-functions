@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 (>&2  echo counting lines in input )
 
