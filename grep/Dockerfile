@@ -1,3 +1,3 @@
-FROM ubuntu:16.04
+FROM busybox
 COPY func.sh /func.sh
 CMD /func.sh
