@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/sh
 set -x 
 
 lines=${FN_HEADER_Lines:-10}
