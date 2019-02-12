@@ -1,2 +1,7 @@
+schema_version: 20180708
 name: head
-version: 0.0.7
+version: 0.0.8
+triggers:
+- name: head
+  type: http
+  source: /head
