@@ -1,3 +1,2 @@
-Text functions for [FnProject](https://github.com/fnproject).
-
-See post at http://mjg123.github.io/2017/10/10/FnProject-Flow-101.html
+Text functions for [FnProject](https://github.com/fnproject) [Flow102
+tutorial](http://fnproject.io/tutorials/Flow102/).
